@@ -8,4 +8,5 @@ sudo npm update
 sudo yarn upgrade
 poetry self update
 deno upgrade
-snap refresh
+bun upgrade
+sudo snap refresh
